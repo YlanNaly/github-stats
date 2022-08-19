@@ -1,9 +1,9 @@
-# [GitHub Stats Visualization](https://github.com/mattnix4/github-stats)
+# [GitHub Stats Visualization](https://github.com/YlanNaly/github-stats)
 
-<a href="https://github.com/mattnix4/github-stats">
+<a href="https://github.com/YlanNaly/github-stats">
 
-![](https://github.com/mattnix4/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/mattnix4/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/YlanNaly/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/YlanNaly/github-stats/blob/master/generated/languages.svg)
 
 </a>
 
